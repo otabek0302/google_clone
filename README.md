@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Google Search with React & Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Google Search](https://i.ibb.co/YNG26RC/Screenshot-2023-10-22-at-03-12-12.png)
 
-## Available Scripts
+### [Live Site]()
 
-In the project directory, you can run:
+### [🌟 Serper API ](https://serper.dev/)
+### [🌟 Tailwind CSS ](https://tailwindcss.com/)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
+Welcome to my Google Clone - a fusion of cutting-edge technology and sleek design! Harnessing the power of Serper API and styled with the elegance of Tailwind CSS, this project is a testament to innovation and user-centric design.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Step into a familiar yet unique search experience where every query is met with precision and style. Utilizing the robust capabilities of Serper API, this clone ensures accurate and efficient search results, while the seamless aesthetics of Tailwind CSS elevate the user interface, promising a visually appealing journey through information.
 
-### `npm test`
+Explore the familiar functionalities of a search engine in a refreshing environment, meticulously crafted to deliver an intuitive and immersive browsing encounter. Get ready to dive into a world where functionality meets finesse, powered by Serper API and stylized with Tailwind CSS.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **REACT**: For structuring the web page.
+- **Tailwind CSS**: For styling and animations.
+- **Responsive Design**: Using media queries to ensure mobile responsiveness.
+- **Optimized Images**: To maintain performance and visual quality.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots
+![Images](https://i.ibb.co/YNG26RC/Screenshot-2023-10-22-at-03-12-12.png)
+![Images Dark Mode](https://i.ibb.co/FqTJj2X/Screenshot-2023-10-22-at-03-12-32.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Setup:
+- run ```npm i && npm start```
