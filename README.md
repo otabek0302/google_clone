@@ -1,6 +1,6 @@
 # Google Search with React & Tailwind CSS
 
-![Google Search](https://i.ibb.co/YNG26RC/Screenshot-2023-10-22-at-03-12-12.png)
+![Google Search](https://i.ibb.co/0s8Z4FN/Screenshot-2023-11-27-at-01-30-41.jpg)
 
 ### [Live Site]()
 
@@ -27,8 +27,8 @@ Explore the familiar functionalities of a search engine in a refreshing environm
 
 
 ## Screenshots
-![Images](https://i.ibb.co/YNG26RC/Screenshot-2023-10-22-at-03-12-12.png)
-![Images Dark Mode](https://i.ibb.co/FqTJj2X/Screenshot-2023-10-22-at-03-12-32.png)
+![Images](https://i.ibb.co/nn7sbNL/video.jpg)
+![Images Dark Mode](https://i.ibb.co/2qNZDxk/Screenshot-2023-11-27-at-01-33-54.jpg)
 
 Setup:
 - run ```npm i && npm start```
