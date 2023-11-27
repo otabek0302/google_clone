@@ -2,7 +2,7 @@
 
 ![Google Search](https://i.ibb.co/0s8Z4FN/Screenshot-2023-11-27-at-01-30-41.jpg)
 
-### [Live Site]()
+### [Live Site](https://google-clone-serper-api.netlify.app/)
 
 ### [🌟 Serper API ](https://serper.dev/)
 ### [🌟 Tailwind CSS ](https://tailwindcss.com/)
